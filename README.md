@@ -1,4 +1,4 @@
-![image](https://github.com/omeirr13/Case-Management-System/assets/74139343/219049a7-950e-4ba2-bc61-35714a1d9cb5)# Case-Management-System
+# Case-Management-System
 Case Management System is designed specifically for lawyers, and legal professionals. It aims to allow lawyers to efficiently handle their caseloads and collaborate with their clients and colleagues.
 
 ![image](https://github.com/omeirr13/Case-Management-System/assets/74139343/53d4dff5-7c33-4036-9b97-4c856abaa734)
@@ -69,8 +69,5 @@ Ensure you have the following prerequisites installed:
   <li>Manage administrative tasks to keep LegalCaseManager running smoothly.</li>
 </ol>
 
-![image](https://github.com/omeirr13/Case-Management-System/assets/74139343/94f30664-c092-4cef-ab9d-0cecd1d98788
-![image](https://github.com/omeirr13/Case-Management-System/assets/74139343/08746e44-d7e0-464f-b50a-c70bc744f827)
-
-
-
+![image](https://github.com/omeirr13/Case-Management-System/assets/74139343/94f30664-c092-4cef-ab9d-0cecd1d98788)
+![image](https://github.com/omeirr13/Case-Management-System/assets/74139343/95b0dd8f-84b8-4d78-937e-392eb8c6b969)
