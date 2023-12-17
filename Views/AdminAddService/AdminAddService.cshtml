@@ -1,0 +1,48 @@
+﻿@model string;
+@{
+	Layout = "_LayoutAdmin";
+	ViewData["Title"] = "Admin Add Service";
+}
+
+@section Styles{
+	<link href="/css/login.css" rel="stylesheet" />
+}
+<!-- Page Header End -->
+<!-- Login Start -->
+<div style="display:flex;justify-content:center; margin-bottom:110px">
+	<div class="containerLogin" id="containerLogin" style="display:flex;justify-content:center;">
+		<div class="form-container sign-up-container" style="padding:40px 0;">
+			<form method="post" action="/AdminAddService/AdminAddService/" enctype="multipart/form-data">
+				<div asp-validation-summary="All"></div>
+				@if (!ViewData.ModelState.IsValid)
+				{
+					<p class="error">
+						Error: Please correct the following errors:
+						<ul class="error">
+							@foreach (var field in ViewData.ModelState)
+							{
+								if (field.Value.Errors.Any())
+								{
+									<li>@Html.ValidationMessage(field.Key)</li>
+								}
+							}
+						</ul>
+					</p>
+				}
+				<h1>Admin Add Service</h1>
+				<input type="text" placeholder="Service Title:" id="Title" name="Title" required />
+				<input type="text" placeholder="Service Description:" id="Description" name="Description" required />
+				<input type="file" placeholder="Image Url" id="file" name="file" required />
+
+				<button style="margin-top:20px">Add Service</button>
+				<p style="color:green">@Model</p>
+			</form>
+		</div>
+	</div>
+</div>
+
+
+
+@section Scripts{
+	<script src="/js/login.js"></script>
+}

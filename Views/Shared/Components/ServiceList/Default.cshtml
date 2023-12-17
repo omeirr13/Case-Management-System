@@ -1,0 +1,10 @@
+﻿@using Case_Management_System.Models;
+@model List<Service>
+
+
+<select name="service" id="service" required>
+	@foreach (Service s in Model)
+	{
+		<option value="@s.Title">@s.Title</option>
+	}	
+</select>

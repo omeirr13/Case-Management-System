@@ -1,0 +1,51 @@
+﻿@using Case_Management_System.Models;
+@model Tuple<List<Rating>, Lawyer>
+
+@{
+	List<Rating> list = Model.Item1;
+	Lawyer l = Model.Item2;
+}
+
+
+<div style="display:flex;justify-content:center;flex-direction:column">
+    <h5 class="section-title text-center text-primary text-uppercase mb-3 mt-3">Reviews</h5>
+</div>
+
+@if(list.Count == 0)
+{
+    <h2>No Reviews Yet! Be the first order :)</h2>
+}
+else
+{
+    
+<div class="rating-part mb-5">
+    @foreach(Rating r in list){
+    <div class="comment-part">
+        <div class="user-img-part">
+            <div class="user-img">
+                <img src="/person.png">
+            </div>
+            <div class="user-text">
+                        <p>@await Component.InvokeAsync("GetUserFromRating", new {r = r} )</p>
+            </div>
+            <div style="clear: both;"></div>
+        </div>
+        <div class="comment">
+            @for(int i = 0;i<r.Rating1;i++)
+                {
+                    <i aria-hidden="true" class="fa fa-star"></i>
+                }
+            @for(int i = 0;i<5-r.Rating1;i++)
+                {
+                    <i aria-hidden="true" class="fa fa-star-o"></i>
+                }
+            <p>
+                @r.RatingText
+            </p>
+        </div>
+        <div style="clear: both;"></div>
+    </div>
+    }
+</div>
+
+}

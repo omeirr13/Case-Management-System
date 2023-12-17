@@ -1,0 +1,56 @@
+﻿@using Case_Management_System.Models;
+@model Tuple<List<Lawyer>, Service>
+
+@{
+    Layout = "_Layout";
+    //foreach(Lawyer l in Model)
+    //{
+    //    Console.WriteLine(l.LawyerName);
+    //}
+    Service? s = Model.Item2;
+    List<Lawyer> list = Model.Item1;
+}
+
+<!-- Page Header Start -->
+@await Component.InvokeAsync("ServiceImage", new {ser=s});
+<!-- Page Header End -->
+
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h1 class="mb-5">Explore Our <span class="text-primary text-uppercase">Related Lawyers</span></h1>
+        </div>
+        @if(list.Count != 0)
+        {
+            
+        <form method="post" action="/LawyerInfo/LawyerInfo">
+            <div class="row g-4">
+                @foreach (Lawyer l in list)
+                {
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s" style="margin-bottom:70px">
+                        <button type="submit" name="LawyerEmail" value="@l.LawyerEmail" style="border:none;background-color:white">
+                            <a class="se rounded">
+                                <div class="service-icon bg-transparent border rounded p-1">
+                                    <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
+                                        <img src="~/person.png" style="width:50%">
+                                    </div>
+                                </div>
+                                <h5 class="mb-3" style="margin-top:20px">@l.LawyerName</h5>
+
+                            </a>
+                        </button>
+                    </div>
+
+                }
+            </div>
+            </form>
+        }
+        else
+        {
+            <div style="display:flex;justify-content:center;margin-top:20px">
+                <h3 style="margin-bottom:83px">Sorry, no lawyers are available for @s.Title</h3>
+            </div>
+        }
+    </div>
+    </div>
+</div>

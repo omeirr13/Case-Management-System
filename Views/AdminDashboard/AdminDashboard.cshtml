@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+    ViewData["Heading"] = "Admin Dashboard";
+    Layout = "_LayoutAdmin";
+}
+        <!-- Admin Dashboard Start -->
+        <div class="container-xxl py-5">
+            <div class="container">
+                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                    <h6 class="section-title text-center text-primary text-uppercase">Our Services</h6>
+                    <h1 class="mb-5">Explore Our <span class="text-primary text-uppercase">Services</span></h1>
+                </div>
+                <div class="row g-4">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                        <a class="service-item rounded" href="/AdminUserCRUD/AdminUserCRUD">
+                            <div class="service-icon bg-transparent border rounded p-1">
+                                <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
+                                    <i class="fa fa-list fa-2x text-primary"></i>
+                                </div>
+                            </div>
+                            <h5 class="mb-3">User CRUD</h5>
+                            <p class="text-body mb-0">Remove and Update Users</p>
+                        </a>
+                    </div>
+			<div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <a class="service-item rounded" href="/AdminAddService/AdminAddService">
+                        <div class="service-icon bg-transparent border rounded p-1">
+                            <div class="w-100 h-100 border rounded d-flex align-items-center justify-content-center">
+                                <i class="fa fa-list fa-2x text-primary"></i>
+                            </div>
+                        </div>
+                        <h5 class="mb-3">Add Service</h5>
+                    </a>
+                </div>
+                </div>
+            </div>
+        </div>

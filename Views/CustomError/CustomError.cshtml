@@ -1,0 +1,68 @@
+﻿@using Case_Management_System.Models;
+@model CustomError;
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <title>Error Page</title>
+      <link rel="stylesheet" href="/css/error.css">
+
+      <style>
+          button {
+    border-radius: 20px;
+    border: 1px solid #000;
+    background-color: #000;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+
+   
+}
+ button:hover {
+    cursor: pointer;
+  }
+button:active {
+        transform: scale(0.95);
+    }
+
+    button:focus {
+        outline: none;
+    }
+
+    button.ghost {
+        background-color: transparent;
+        border-color: #FFFFFF;
+    }
+
+      </style>
+   </head>
+   <body>
+      <div id="error-page">
+         <div class="content">
+            <h2 class="header" data-text="404">
+                @Model.ErrorCode;
+            </h2>
+            <h4 data-text="Opps! Page not found">
+                @Model.Error;
+            </h4>
+            <p>
+                @Model.Description;
+            </p>
+            <div style="display:flex;justift-content:center;"></div>
+            <form method="get" action="/AdminDashboard/AdminDashboard">
+            <button style="margin-top:20px">Admin Dashboard</button>
+            </form>
+            </a>
+
+         </div>
+      </div>
+   </body>
+</html>

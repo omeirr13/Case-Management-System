@@ -1,0 +1,289 @@
+D:\repos\Case Management System\Case Management System\bin\Debug\net6.0\appsettings.Development.json
+D:\repos\Case Management System\Case Management System\bin\Debug\net6.0\appsettings.json
+D:\repos\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.staticwebassets.runtime.json
+D:\repos\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.exe
+D:\repos\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.deps.json
+D:\repos\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.runtimeconfig.json
+D:\repos\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.dll
+D:\repos\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.pdb
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.csproj.AssemblyReference.cache
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.AssemblyInfoInputs.cache
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.AssemblyInfo.cs
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.csproj.CoreCompileInputs.cache
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.RazorAssemblyInfo.cache
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.RazorAssemblyInfo.cs
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.Case Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.build.Case Management System.props
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Case Management System.props
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Case Management System.props
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets.pack.json
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets.build.json
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets.development.json
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\scopedcss\bundle\Case Management System.styles.css
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.dll
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\refint\Case Management System.dll
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.pdb
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.genruntimeconfig.cache
+D:\repos\Case Management System\Case Management System\obj\Debug\net6.0\ref\Case Management System.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.staticwebassets.runtime.json
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.exe
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.deps.json
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.runtimeconfig.json
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.pdb
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.Case Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.build.Case Management System.props
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Case Management System.props
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Case Management System.props
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\scopedcss\bundle\Case Management System.styles.css
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\refint\Case Management System.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.pdb
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\ref\Case Management System.dll
+C:\Users\ADMIN\Downloads\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\libman.json
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.csproj.AssemblyReference.cache
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.AssemblyInfoInputs.cache
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.AssemblyInfo.cs
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.csproj.CoreCompileInputs.cache
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.RazorAssemblyInfo.cache
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.RazorAssemblyInfo.cs
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\appsettings.Development.json
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\appsettings.json
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\libman.json
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.staticwebassets.runtime.json
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.exe
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.deps.json
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.runtimeconfig.json
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Case Management System.pdb
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Azure.Core.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Azure.Identity.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Humanizer.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.AspNet.SessionState.SessionStateModule.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.CodeDom.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Text.Json.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.Case Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.build.Case Management System.props
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Case Management System.props
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Case Management System.props
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets.build.json
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\staticwebassets.development.json
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\scopedcss\bundle\Case Management System.styles.css
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.csproj.CopyComplete
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\refint\Case Management System.dll
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.pdb
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\Case Management System.genruntimeconfig.cache
+D:\Case Management System\Case Management System\Case Management System\Case Management System\obj\Debug\net6.0\ref\Case Management System.dll
+D:\CMS\bin\Debug\net6.0\appsettings.Development.json
+D:\CMS\bin\Debug\net6.0\appsettings.json
+D:\CMS\bin\Debug\net6.0\libman.json
+D:\CMS\bin\Debug\net6.0\Case Management System.staticwebassets.runtime.json
+D:\CMS\bin\Debug\net6.0\Case Management System.exe
+D:\CMS\bin\Debug\net6.0\Case Management System.deps.json
+D:\CMS\bin\Debug\net6.0\Case Management System.runtimeconfig.json
+D:\CMS\bin\Debug\net6.0\Case Management System.dll
+D:\CMS\bin\Debug\net6.0\Case Management System.pdb
+D:\CMS\bin\Debug\net6.0\Azure.Core.dll
+D:\CMS\bin\Debug\net6.0\Azure.Identity.dll
+D:\CMS\bin\Debug\net6.0\Humanizer.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.AspNet.SessionState.SessionStateModule.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\CMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\CMS\bin\Debug\net6.0\System.CodeDom.dll
+D:\CMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CMS\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CMS\bin\Debug\net6.0\System.Memory.Data.dll
+D:\CMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\CMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CMS\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\CMS\bin\Debug\net6.0\System.Text.Json.dll
+D:\CMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\CMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CMS\obj\Debug\net6.0\Case Management System.csproj.AssemblyReference.cache
+D:\CMS\obj\Debug\net6.0\Case Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMS\obj\Debug\net6.0\Case Management System.AssemblyInfoInputs.cache
+D:\CMS\obj\Debug\net6.0\Case Management System.AssemblyInfo.cs
+D:\CMS\obj\Debug\net6.0\Case Management System.csproj.CoreCompileInputs.cache
+D:\CMS\obj\Debug\net6.0\Case Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\CMS\obj\Debug\net6.0\Case Management System.RazorAssemblyInfo.cache
+D:\CMS\obj\Debug\net6.0\Case Management System.RazorAssemblyInfo.cs
+D:\CMS\obj\Debug\net6.0\staticwebassets\msbuild.Case Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CMS\obj\Debug\net6.0\staticwebassets\msbuild.build.Case Management System.props
+D:\CMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Case Management System.props
+D:\CMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Case Management System.props
+D:\CMS\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CMS\obj\Debug\net6.0\staticwebassets.build.json
+D:\CMS\obj\Debug\net6.0\staticwebassets.development.json
+D:\CMS\obj\Debug\net6.0\scopedcss\bundle\Case Management System.styles.css
+D:\CMS\obj\Debug\net6.0\Case Management System.csproj.CopyComplete
+D:\CMS\obj\Debug\net6.0\Case Management System.dll
+D:\CMS\obj\Debug\net6.0\refint\Case Management System.dll
+D:\CMS\obj\Debug\net6.0\Case Management System.pdb
+D:\CMS\obj\Debug\net6.0\Case Management System.genruntimeconfig.cache
+D:\CMS\obj\Debug\net6.0\ref\Case Management System.dll

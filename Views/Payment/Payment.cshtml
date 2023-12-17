@@ -1,0 +1,57 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers;
+
+@using Case_Management_System.Models;
+@model int;
+@{
+	Layout = "_Layout";
+	ViewData["Title"] = "Payment";
+}
+
+@section Styles{
+	<link href="/css/payment.css" rel="stylesheet" />
+}
+<div class="container-fluid page-header mb-3 p-0">
+    <div class="container-fluid page-header-inner py-5">
+        <div class="container text-center pb-5">
+            <h1 class="display-3 text-white mb-3 animated slideInDown">Payment</h1>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb justify-content-center text-uppercase">
+                    @*<li class="breadcrumb-item"><a href="#">@Model.LawyerName</a></li>*@
+                </ol>
+            </nav>
+        </div>
+    </div>
+</div>
+<div class="main">
+
+    <div class="containerr">
+        <div class="heading">
+            <h1>Payment details</h1>
+
+        </div>
+        <form action="/Review/Review" method="get">
+
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Name" required />
+        <br>
+        <label for="card">Card number</label>
+        <input type="text" minlength="16" maxlength="16" id="card" name="card" placeholder="0000 0000 0000 0000" required/>
+        <br>
+        <div class="exp-cvc">
+            <div class="expiration">
+                <label for="expiry">Expiration date</label>
+                <input class="inputCard" name="expiry" id="expiry" type="date" required placeholder="00/00" />
+                <br>
+            </div>
+            <div class="security">
+                <label for="cvc">CVC</label>
+                <input type="text" minlength="3" maxlength="4" id="cvc" name="cvc" placeholder="XXX" required/>
+                <br>
+            </div>
+        </div>
+            <div style="display:flex;justify-content:center;width:100%">
+                <button name="LawyerId" value="@Model">Submit</button>
+        </form>
+            </div>
+    </div>
+</div>
